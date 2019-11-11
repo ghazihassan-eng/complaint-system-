@@ -1,0 +1,24 @@
+c:\users\hadi\documents\visual studio 2013\Projects\complaint system\complaint system\bin\Debug\complaint system.exe.config
+c:\users\hadi\documents\visual studio 2013\Projects\complaint system\complaint system\bin\Debug\complaint system.exe
+c:\users\hadi\documents\visual studio 2013\Projects\complaint system\complaint system\bin\Debug\complaint system.pdb
+c:\users\hadi\documents\visual studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.Form1.resources
+c:\users\hadi\documents\visual studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.Properties.Resources.resources
+c:\users\hadi\documents\visual studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint system.csproj.GenerateResource.Cache
+c:\users\hadi\documents\visual studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint system.exe
+c:\users\hadi\documents\visual studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint system.pdb
+c:\users\hadi\documents\visual studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.citizenform.resources
+C:\Users\Hadi\Documents\Visual Studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.police.resources
+C:\Users\Hadi\Documents\Visual Studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.admin.resources
+C:\Users\Hadi\Documents\Visual Studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.login.resources
+C:\Users\Hadi\Documents\Visual Studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.suigas.resources
+C:\Users\Hadi\Documents\Visual Studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.complaintdepartment3.resources
+C:\Users\Hadi\Documents\Visual Studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.complaintdepartment4.resources
+C:\Users\Hadi\Documents\Visual Studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.complaintde_partment5.resources
+C:\Users\Hadi\documents\visual studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.citizenfront.resources
+C:\Users\Hadi\documents\visual studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.adminpanel1.resources
+C:\Users\Hadi\documents\visual studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.adminpanel2.resources
+C:\Users\Hadi\documents\visual studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.adminpanel3.resources
+C:\Users\Hadi\documents\visual studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.adminpanel4.resources
+C:\Users\Hadi\documents\visual studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.adminpanel5.resources
+C:\Users\Hadi\Documents\Visual Studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.Form2.resources
+C:\Users\Hadi\documents\visual studio 2013\Projects\complaint system\complaint system\obj\Debug\complaint_system.Form3.resources
